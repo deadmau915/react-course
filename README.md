@@ -14,8 +14,9 @@ In this course, i'm going to learn how to build an interective web application u
     * What is a component
     * How to create and use a components
 
-3. Class : ...
-    * ...
+3. Class 4: How do components commuicate? attributes and props
+    * How to communicate two components
+    * Differences between props and attributes
 
 ## Conclusion
 
