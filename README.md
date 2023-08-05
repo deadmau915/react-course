@@ -10,11 +10,11 @@ In this course, i'm going to learn how to build an interective web application u
     * What is React
     * Project setup
 
-2. Class 2: Components
+2. Class 2, 3: Components
     * What is a component
-    * How to create and use a component
+    * How to create and use a components
 
-2. Class : ...
+3. Class : ...
     * ...
 
 ## Conclusion
