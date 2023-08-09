@@ -4,13 +4,12 @@ import { TodoList } from './TodoList';
 import { TodoItem } from './TodoItem';
 import { CreateTodoButton } from './CreateTodoButton';
 import React from 'react';
-import './App.css';
 
 const defaultTodos = [
-  { text: 'cocinar guayabas', completed: true},
-  { text: 'colar guayabas', completed: false},
-  { text: 'triturar guayabas', completed: false},
-  { text: 'enfriar guayabas', completed: false},
+  { text: 'cocinar guayabas', completed: true },
+  { text: 'colar guayabas', completed: false },
+  { text: 'triturar guayabas', completed: false },
+  { text: 'enfriar guayabas', completed: false },
 ];
 
 function App() {
@@ -24,7 +23,7 @@ function App() {
           <TodoItem key={todo.text} text={todo.text} completed={todo.completed} />
         ))}
       </TodoList>
-      
+
       <CreateTodoButton />
     </React.Fragment>
   );

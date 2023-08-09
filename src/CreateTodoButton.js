@@ -1,7 +1,9 @@
-function CreateTodoButton() {
-    return (
-      <button>CLick Me!!</button>
-    );
-  }
+import './CreateTodoButton.css';
 
-  export { CreateTodoButton };
+function CreateTodoButton() {
+  return (
+    <button className='CreateTodoButton'>+</button>
+  );
+}
+
+export { CreateTodoButton };

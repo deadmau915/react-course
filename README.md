@@ -18,6 +18,12 @@ In this course, i'm going to learn how to build an interective web application u
     * How to communicate two components
     * Differences between props and attributes
 
+4. Class 5: CSS styles in Ract
+    * Adding some styles to the TODO app
+
+5. Class : ...
+    * ...
+
 ## Conclusion
 
 We are not here yet!!
