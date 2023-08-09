@@ -21,7 +21,10 @@ In this course, i'm going to learn how to build an interective web application u
 4. Class 5: CSS styles in Ract
     * Adding some styles to the TODO app
 
-5. Class : ...
+5. Class 6: Events on React.js
+    * Using events React (Onclick)
+
+6. Class : ...
     * ...
 
 ## Conclusion
