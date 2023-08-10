@@ -24,7 +24,10 @@ In this course, i'm going to learn how to build an interective web application u
 5. Class 6: Events on React.js
     * Using events React (Onclick)
 
-6. Class : ...
+6. Class 7: States
+    * How to use States on React
+
+7. Class : ...
     * ...
 
 ## Conclusion
