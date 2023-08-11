@@ -31,7 +31,10 @@ In this course, i'm going to learn how to build an interective web application u
     * Adding functionality to the counting TODOs component
     * Adding functionality to the search component
 
-8. Class : ...
+8. Class 10: Completing and deleting TODOs
+    * Creating the functionality to delete and complete TODOs
+
+9. Class : ...
     * ...
 
 ## Conclusion
