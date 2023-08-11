@@ -27,8 +27,9 @@ In this course, i'm going to learn how to build an interective web application u
 6. Class 7: States
     * How to use States on React
 
-7. Class 8: Counting TODOs
+7. Class 8, 9: Counting TODOs
     * Adding functionality to the counting TODOs component
+    * Adding functionality to the search component
 
 8. Class : ...
     * ...
