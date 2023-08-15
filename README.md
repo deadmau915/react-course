@@ -34,8 +34,9 @@ In this course, i'm going to learn how to build an interective web application u
 8. Class 10: Completing and deleting TODOs
     * Creating the functionality to delete and complete TODOs
 
-9. Class 11: Icons, libraries ands SVGs
+9. Class 11, 12: Icons, libraries ands SVGs
     * Use of icons, svgs and libraries
+    * Setting the functionalities delete and complete to the icons
 
 10. Class : ...
     * ...
